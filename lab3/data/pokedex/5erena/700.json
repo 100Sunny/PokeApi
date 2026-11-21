@@ -1,0 +1,14 @@
+{
+  "dex": 700,
+  "name": "Sylveon",
+  "types": [
+    "fairy"
+  ],
+  "attacks": [
+    {
+      "name": "Pixilate",
+      "type": "fairy",
+      "level": 100
+    }
+  ]
+}

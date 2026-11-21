@@ -1,0 +1,20 @@
+{
+  "dex": 133,
+  "name": "Eevee",
+  "types": [
+    "normal",
+    "fire"
+  ],
+  "attacks": [
+    {
+      "name": "bite",
+      "type": "normal",
+      "level": 1
+    },
+    {
+      "name": "quick attack",
+      "type": "normal",
+      "level": 10
+    }
+  ]
+}
